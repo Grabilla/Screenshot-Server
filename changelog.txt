@@ -1,0 +1,1 @@
+1.9.14 - We have added Login with GitHub to our login providers.
